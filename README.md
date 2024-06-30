@@ -1,7 +1,5 @@
 # Customer-Segmentation-using-K_Means_Clustering
 
-# Customer Segmentation using K-Means Clustering
-
 ## Overview
 
 This repository contains a project that demonstrates how to perform customer segmentation using the K-means clustering technique. Customer segmentation is the process of dividing customers into groups based on common characteristics. This helps businesses tailor their marketing strategies, improve customer service, and enhance customer satisfaction.
